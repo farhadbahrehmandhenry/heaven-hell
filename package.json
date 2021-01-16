@@ -1,0 +1,27 @@
+{
+  "name": "heaven-hell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-jvectormap-2.0.5.min.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhadbahrehmandhenry/heaven-hell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhadbahrehmandhenry/heaven-hell/issues"
+  },
+  "homepage": "https://github.com/farhadbahrehmandhenry/heaven-hell#readme"
+}
